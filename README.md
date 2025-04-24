@@ -1,4 +1,4 @@
-🧪 Geo Clustering App
+**🧪 Geo Clustering App**
 A Streamlit-powered tool for clustering and visualizing business performance across U.S. states using key financial metrics.
 
 📦 What It Does
