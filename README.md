@@ -41,36 +41,4 @@ Final scores are displayed for performance evaluation.
 Displays a clean table showing which states belong to each cluster.
 ✅ Includes download button for exporting results.
 
-🛠️ Installation
-Clone the repo:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/geo-clustering-app.git
-cd geo-clustering-app
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the app:
-
-bash
-Copy
-Edit
-streamlit run app.py
-🚀 Deploy on Streamlit Cloud
-Just push this repo to GitHub and connect it to Streamlit Community Cloud. Done!
-
-📝 Sample Input Format
-Your CSV should include the following columns:
-
-python-repl
-Copy
-Edit
-state_name, Revenue, Orders, AOV
-Texas, 100000, 200, 500
-California, 150000, 300, 500
-...
